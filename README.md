@@ -1,2 +1,2 @@
-# -ViT-VisionTransformer_Classification_Deeptooth
+# ViT-VisionTransformer_Classification_Deeptooth
 Train Classification using VisionTransformer model
